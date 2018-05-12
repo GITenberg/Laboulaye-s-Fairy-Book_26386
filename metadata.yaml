@@ -43,6 +43,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4235
     wikipedia: http://en.wikipedia.org/wiki/%C3%89douard_Ren%C3%A9_Lef%C3%A8vre_de_Laboulaye
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26386#Laboulaye-s-Fairy-Book
 gutenberg_issued: '2008-08-21'
 gutenberg_type: Text
 identifiers:
